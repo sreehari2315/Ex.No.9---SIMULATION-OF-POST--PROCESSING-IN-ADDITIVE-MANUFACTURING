@@ -41,13 +41,14 @@
 ![3](https://github.com/sreehari2315/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331590/01fe66fb-eda0-4c9e-b07b-9b1a49fe09ad)
 ![4](https://github.com/sreehari2315/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331590/fb5a7036-060d-40a6-8e09-45956367fab5)
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![5](https://github.com/sreehari2315/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331590/c8c49c04-a33a-4799-bdcf-6ccae931cdf7)
+![6](https://github.com/sreehari2315/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331590/65ea4f4c-6232-4df3-8866-00ced9ff5ad7)
 
 ## Output:
+![7](https://github.com/sreehari2315/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331590/2826eac6-5967-418e-be31-f6b6b891534a)
 
-### Name:
-### Register Number:
+### Name:SREE HARI K
+### Register Number:212223230212
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
